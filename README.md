@@ -1,1 +1,1 @@
-# aws-solutions-architect-associate
+This will contain all notes taken along the way to prepare for AWS Solutions Architect Associate Exams. All notes will be compiled [here](AWS-Solutions-Architect-Associate.md) to serve as reference and exam prep material. Enjoy the journey!
