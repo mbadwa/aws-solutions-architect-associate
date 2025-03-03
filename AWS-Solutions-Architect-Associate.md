@@ -212,3 +212,25 @@ The AWS global infrastructure can be found [here](https://aws.amazon.com/about-a
 
 ## EC2 Fundamentals
 
+### Intro
+- EC2 is the most popular of AWS' offering
+- EC2 = Elastic Cloud Computing = Infrastructure As Code
+- It consists of sub services:
+  - Renting Virtual Machines (EC2)
+  - Storing Data on Virtual Drives (EBS)
+  - Distributing Load Across Machines (ELB)
+  - Scaling Services using autoscaling groups (ASG)
+
+### EC2 Sizing & configurations Options
+
+- Operating Systems: Windows, Linux or MacOS
+- How much compute power and cores (CPUs)
+- How much memory (RAM) 
+- How much storage: 
+  - Network Attached (EBS/EFS)
+  - Hardware Attached (EC2 Instance Store)
+- Network Card: speed of the card, Public IP Address
+- Firewall Rules: Security groups
+- Bootstrap script (Configure at first launch): EC2 User Data
+
+### EC2 User
